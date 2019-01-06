@@ -41,7 +41,7 @@
     "url-loader": "^0.5.9",
     "web3": "^0.20.0",
     "webpack": "^3.3.0",
-    "webpack-dev-server": "^2.6.1"
+    "webpack-dev-server": "^3.1.4",
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
